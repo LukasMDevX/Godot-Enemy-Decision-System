@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Godot\\Godot-Enemy-Decision-System\\enemy-condiditon-system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDE8559-D20B-449B-BC86-8C79411B2A08}|Enemy Condiditon System.csproj|d:\\godot\\godot-enemy-decision-system\\enemy-condiditon-system\\scripts\\demoenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDE8559-D20B-449B-BC86-8C79411B2A08}|Enemy Condiditon System.csproj|solutionrelative:scripts\\demoenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDE8559-D20B-449B-BC86-8C79411B2A08}|Enemy Condiditon System.csproj|d:\\godot\\godot-enemy-decision-system\\enemy-condiditon-system\\scripts\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDE8559-D20B-449B-BC86-8C79411B2A08}|Enemy Condiditon System.csproj|solutionrelative:scripts\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDE8559-D20B-449B-BC86-8C79411B2A08}|Enemy Condiditon System.csproj|d:\\godot\\godot-enemy-decision-system\\enemy-condiditon-system\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDE8559-D20B-449B-BC86-8C79411B2A08}|Enemy Condiditon System.csproj|solutionrelative:scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemoEnemy.cs",
+              "DocumentMoniker": "D:\\Godot\\Godot-Enemy-Decision-System\\enemy-condiditon-system\\Scripts\\DemoEnemy.cs",
+              "RelativeDocumentMoniker": "Scripts\\DemoEnemy.cs",
+              "ToolTip": "D:\\Godot\\Godot-Enemy-Decision-System\\enemy-condiditon-system\\Scripts\\DemoEnemy.cs",
+              "RelativeToolTip": "Scripts\\DemoEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T19:04:10.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyAttack.cs",
+              "DocumentMoniker": "D:\\Godot\\Godot-Enemy-Decision-System\\enemy-condiditon-system\\Scripts\\EnemyAttack.cs",
+              "RelativeDocumentMoniker": "Scripts\\EnemyAttack.cs",
+              "ToolTip": "D:\\Godot\\Godot-Enemy-Decision-System\\enemy-condiditon-system\\Scripts\\EnemyAttack.cs",
+              "RelativeToolTip": "Scripts\\EnemyAttack.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T18:20:33.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Godot\\Godot-Enemy-Decision-System\\enemy-condiditon-system\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Scripts\\Enemy.cs",
+              "ToolTip": "D:\\Godot\\Godot-Enemy-Decision-System\\enemy-condiditon-system\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Scripts\\Enemy.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T18:18:40.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
